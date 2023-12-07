@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Leaflet-distance/static/css/main.67435bcc.css",
+    "main.js": "/Leaflet-distance/static/js/main.0a5ca61f.js",
+    "static/js/787.c9d86184.chunk.js": "/Leaflet-distance/static/js/787.c9d86184.chunk.js",
+    "index.html": "/Leaflet-distance/index.html",
+    "main.67435bcc.css.map": "/Leaflet-distance/static/css/main.67435bcc.css.map",
+    "main.0a5ca61f.js.map": "/Leaflet-distance/static/js/main.0a5ca61f.js.map",
+    "787.c9d86184.chunk.js.map": "/Leaflet-distance/static/js/787.c9d86184.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67435bcc.css",
+    "static/js/main.0a5ca61f.js"
+  ]
+}
